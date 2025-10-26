@@ -149,9 +149,8 @@ The simulation waveform illustrates the **real-time response** of the vending ma
 | Tool | Purpose |
 |------|----------|
 | **Verilog HDL** | Hardware description and design |
-| **ModelSim / Vivado** | Simulation and waveform verification |
-| **Xilinx Vivado / Intel Quartus Prime** | Synthesis and implementation |
-| **GTKWave** | Waveform visualization |
+| **Vivado** | Simulation and waveform verification |
+| **Xilinx Vivado**| Synthesis and implementation |
 
 
 ## Future Enhancements
