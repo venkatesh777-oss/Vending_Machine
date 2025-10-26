@@ -81,9 +81,9 @@ endtask
       #10;
       item(3,1,0); // insert ₹5 first
       #10;
-      item(3,0,2); // then ₹10 (total ₹15)
+	   item(3,0,2); // then 2*₹10 (total ₹15)
       #10;
-      item(3,0,1); // insert 2×₹10 = ₹20
+	   item(3,0,1); // insert 10
       #50;
       
       $finish;		
