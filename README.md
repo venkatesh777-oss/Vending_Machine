@@ -1,4 +1,5 @@
-# 💰 Vending Machine using Verilog HDL
+# 💰 verilog implementation of Vending Machine using FSM architecture
+
 
 ## 🧾 Abstract
 This project presents the design and simulation of a **Vending Machine** using **Verilog HDL**.  
